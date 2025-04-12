@@ -1,0 +1,4 @@
+assets/
+.vscode/
+__pycache__/
+*.pyc
